@@ -1,0 +1,6 @@
+# Excluir la carpeta .vs
+.vs/
+
+# Excluir archivos binarios
+bin/
+obj/
